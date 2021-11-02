@@ -1,0 +1,16 @@
+README.md
+setup.cfg
+setup.py
+coreflows/__init__.py
+coreflows/advect.py
+coreflows/analyze.py
+coreflows/functions.py
+coreflows/plot.py
+coreflows/svnoise.py
+coreflows.egg-info/PKG-INFO
+coreflows.egg-info/SOURCES.txt
+coreflows.egg-info/dependency_links.txt
+coreflows.egg-info/requires.txt
+coreflows.egg-info/top_level.txt
+coreflows/data/steady_flow_fortran_fit
+coreflows/data/wavefits012.p

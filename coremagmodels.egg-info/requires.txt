@@ -1,0 +1,6 @@
+numpy
+scipy
+pyshtools
+
+[plotting]
+matplotlib

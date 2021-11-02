@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: coreflows
+Version: 1.0.0
+Summary: A package for working with a variety of global magnetic field models of the Earth.
+Home-page: https://github.com/nknezek/coreflows
+Author: Nicholas Knezek
+Author-email: nknezek@gmail.com
+License: MIT
+Description: coreflows
+        =====
+        This package provides Python code to calculate Secular variation and flows in the core
+        
+        
+        Usage
+        -----
+        To use, simply clone the git directory, then either run the code from the directory directly, or run `python setup.py install` to allow for importing the method in any python project. 
+        
+        
+Keywords: magnetic geomagnetic field model secular variation acceleration
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering :: Geophysics
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Provides-Extra: plotting
